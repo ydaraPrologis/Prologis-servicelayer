@@ -1,0 +1,1 @@
+while creating dynamodb table, provide Partition key: “LockID” (It needs to be this exact name)
